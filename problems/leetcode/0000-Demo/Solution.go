@@ -1,4 +1,4 @@
-package Solution
+package leetcode
 
 func Solution_1(x bool) bool {
 	return x
