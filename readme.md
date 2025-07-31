@@ -4,4 +4,13 @@
 
 ## For leetcode problems
 
-- Problem solving methodology and how to use the problems and test case resouces [clickme](/problems/leetcode/0000.methodology.md)
+commands for Makefile is
+
+```
+- new
+  make new name=$(name_of_file)
+- test $(name_of_file)
+  make test name=$(name_of_file)
+- watch $(name_of_file)
+  make watch name=$(name_of_file)
+```
